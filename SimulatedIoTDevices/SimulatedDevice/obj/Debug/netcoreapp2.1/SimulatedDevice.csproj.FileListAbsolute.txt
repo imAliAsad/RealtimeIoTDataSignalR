@@ -1,0 +1,10 @@
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.deps.json
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.runtimeconfig.json
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.runtimeconfig.dev.json
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.dll
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\bin\Debug\netcoreapp2.1\SimulatedDevice.pdb
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.csprojAssemblyReference.cache
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.AssemblyInfoInputs.cache
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.AssemblyInfo.cs
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.dll
+C:\Users\lakht\Desktop\IOT\iot-hub\Tutorials\Routing\SimulatedDevice\obj\Debug\netcoreapp2.1\SimulatedDevice.pdb
