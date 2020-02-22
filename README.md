@@ -123,3 +123,6 @@ Run the project Azure Function. This will execute the azure function, which will
 
 # Run the Client App
 Client app will contain 3 cards for Temprature, Humidity, and Pressure. Whose values gets updated on realtime by using SignalR
+
+
+Original Credits: [Realtime Serverless IoT Data using Azure SignalR and Azure Functions in Angular](https://www.codeproject.com/Articles/1273206/Realtime-Serverless-IoT-Data-using-Azure-SignalR-a)
